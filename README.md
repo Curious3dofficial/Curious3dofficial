@@ -4,11 +4,11 @@
 <br/>
 
 <h1 align="center">Hey, I'm Aniruddha 👋</h1>
-<h3 align="center">12th Grader @ Vivekananda Mission School</h3>
+<h3 align="center">12th Grader</h3>
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently in 12th Grade at **VMS International School**
+- 🎓 Currently in 12th Grade at **Vivekananda Mission School**
 - 💻 I like building things — from games to portfolios
 - 🌱 Always exploring new tech and leveling up my skills
 - 📍 Based in India
