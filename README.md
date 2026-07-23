@@ -13,12 +13,14 @@
 - 🌱 Always exploring new tech and leveling up my skills
 - 📍 Based in India
 
+
 ## 🛠️ Projects
 
 - **[portfolio](https://github.com/Curious3dofficial/portfolio)** — my personal portfolio site
 - **[Scaccomatto](https://github.com/Curious3dofficial/Scaccomatto)** — a chess application
 
-### 🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-1a1b27?style=flat&logo=openjdk&logoColor=ED8B00&labelColor=1a1b27" alt="Java" />
@@ -41,21 +43,21 @@
   <img src="https://img.shields.io/badge/Postman-1a1b27?style=flat&logo=postman&logoColor=FF6C37&labelColor=1a1b27" alt="Postman" />
 </p>
 
-### 🔗 Connect With Me
+
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/aniruddhaaaaaaaaaaaaa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=flat&logo=instagram&logoColor=E4405F&labelColor=1a1b27" alt="Instagram" /></a>
   <a href="mailto:aniruddha911xd@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-1a1b27?style=flat&logo=gmail&logoColor=EA4335&labelColor=1a1b27" alt="Email" /></a>
 </p>
 
-  ### 📊 GitHub Stats
 
-<div align="center" style="display:flex; justify-content:center; align-items:stretch; gap:16px; flex-wrap:wrap;">
-  <img height="100%" style="height:100%; width:auto;" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Curious3dofficial&show_icons=true&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&count_private=true" alt="stats" />
-  <img height="100%" style="height:100%; width:auto;" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Curious3dofficial&layout=compact&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&langs_count=8" alt="top langs" />
-</div>
+## 📊 GitHub Stats
 
-### 📈 Contribution Graph
+<div align="center"> <img height="260" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Curious3dofficial&show_icons=true&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&count_private=true" alt="stats" /> <img height="260" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Curious3dofficial&layout=compact&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&langs_count=8" alt="top langs" /> </div>
+
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Curious3dofficial&bg_color=1a1b27&color=B79CFB&line=8B5CF6&point=F5F6F8&area=true&area_color=8B5CF6&hide_border=false&border_color=8B5CF6&radius=12" alt="activity graph" />
