@@ -1,9 +1,10 @@
-<h1 align="center">Hey, I'm Aniruddha 👋</h1>
-<h3 align="center">12th Grader @ VMS International School</h3>
 
 <img src="https://raw.githubusercontent.com/Curious3dofficial/Curious3dofficial/main/dino-run.svg" width="100%" />
 
 <br/>
+
+<h1 align="center">Hey, I'm Aniruddha 👋</h1>
+<h3 align="center">12th Grader @ Vivekananda Mission School</h3>
 
 ## 🧑‍💻 About Me
 
