@@ -48,18 +48,12 @@
   <a href="mailto:aniruddha911xd@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-1a1b27?style=flat&logo=gmail&logoColor=EA4335&labelColor=1a1b27" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+  ### 📊 GitHub Stats
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="middle" align="center">
-<img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Curious3dofficial&show_icons=true&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&count_private=true" alt="stats" />
-</td>
-<td width="50%" valign="middle" align="center">
-<img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Curious3dofficial&layout=compact&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&langs_count=8" alt="top langs" />
-</td>
-</tr>
-</table>
+<div align="center" style="display:flex; justify-content:center; align-items:stretch; gap:16px; flex-wrap:wrap;">
+  <img height="100%" style="height:100%; width:auto;" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Curious3dofficial&show_icons=true&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&count_private=true" alt="stats" />
+  <img height="100%" style="height:100%; width:auto;" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Curious3dofficial&layout=compact&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&langs_count=8" alt="top langs" />
+</div>
 
 ### 📈 Contribution Graph
 
