@@ -65,7 +65,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Curious3dofficial&show_icons=true&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&count_private=true" alt="stats" /> &nbsp;&nbsp; <img width="448" height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Curious3dofficial&layout=compact&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&langs_count=8" alt="top langs" /> </div>
+<div align="center"> <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Curious3dofficial&show_icons=true&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&count_private=true" alt="stats" /> <img width="448" height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Curious3dofficial&layout=compact&theme=tokyonight&title_color=B79CFB&icon_color=8B5CF6&text_color=9AA1AE&bg_color=1a1b27&border_color=8B5CF6&border_radius=12&langs_count=8" alt="top langs" /> </div>
 
 
 <br/>
